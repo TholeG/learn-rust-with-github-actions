@@ -1,5 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, Braunschweig!");
 }
 
 // Next, try a more interesting example from the interactive Terminal: https://github.com/glitteringkatie/spongemock
